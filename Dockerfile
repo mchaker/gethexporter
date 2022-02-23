@@ -1,4 +1,4 @@
-FROM golang:1.12 as base
+FROM golang:1.17 as base
 
 MAINTAINER "Hunter Long (https://github.com/hunterlong)"
 
